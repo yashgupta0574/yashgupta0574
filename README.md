@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/3000/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h1 align="center">Hi 👋, I'm Yash Gupta 😉</h1>
-<h3 align="center">I'm Frontend Developer with proficient in Data Structures</h3>
+<h3 align="center">I'm Full Stack Developer with proficient in MERN Stack with great interest and proficiency in Data Sructures and Algorithms</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👯 I’m looking to collaborate on **Any MERN stack related project**
+- 👯 I’m looking to collaborate on **Any MERN stack related project or analysis of Data structure or Algorithms**
 
 - 📫 How to reach me **ydgupta2002@gmail.com**
 
