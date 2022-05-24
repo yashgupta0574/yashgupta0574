@@ -1,5 +1,5 @@
 ![MasterHead](https://miro.medium.com/max/3000/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
-<h1 align="center">Hi 👋, Good to see you here😊, I'm Yash Gupta 😉</h1>
+<h1 align="center">Hi 👋, Glad to see you here😊, I'm Yash Gupta 😉</h1>
 <h3 align="center">I'm Full Stack Developer with proficient in MERN Stack with great interest and proficiency in Data Sructures and Algorithms</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
