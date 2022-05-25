@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m looking to collaborate on **Any MERN related project or analysis of Data structure or Algorithms**
+- 👯 I’m looking to collaborate on **Any MERN based or project related Stocks/Crytocurrency**
 
 - 📫 How to reach me **ydgupta2002@gmail.com**
 
