@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, Glad to see you here😊, I'm Yash Gupta 😉</h1>
-<h3 align="center">I'm Full Stack Developer with competent in MERN Stack with great interest and proficient in Data Sructures and Algorithms</h3>
+<h3 align="center">I'm Full Stack Developer with competent in MERN Stack with great interest and proficient in Data Structures and Algorithms</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgupta0574" alt="yashgupta0574" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Data structures and ReactJs**
+- 🌱 I’m currently learning **Advanced Data structures,Algorithms and ReactJs**
 
 - 👯 I’m looking to collaborate on **Any MERN based or project related Stocks/Crytocurrency**
 
