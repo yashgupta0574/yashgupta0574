@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, Glad to see you here😊, I'm Yash Gupta 😉</h1>
-<h3 align="center">I'm Full Stack Developer with competent in MERN Stack with great interest and proficient in Data Structures and Algorithms</h3>
+<h3 align="center">I'm Full Stack Developer with great interest and proficient in Data Structures and Algorithms</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
